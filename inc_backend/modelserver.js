@@ -19,7 +19,7 @@ app.use(cors());
 mongoose.connect('mongokey', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    serverSelectionTimeoutMS: 15000, // Increase timeout
+    serverSelectionTimeoutMS: 15000, 
     connectTimeoutMS: 15000 // Increase connection timeout
   })
   .then(() => {
