@@ -52,17 +52,17 @@ Leukemia & Lymphoma Society Documents (PDFs)
 This chatbot ensures reliable and accurate responses based on trusted medical literature.
 
 🔧 Challenges Faced
-Limited Dataset Availability : Only B-ALL cases were available, limiting generalization to other leukemia types.
-Integration Complexity : Seamless communication between frontend, backend, and AI model server required careful orchestration.
-Security & Privacy Compliance : Ensuring patient data protection as per medical standards.
+Limited Dataset Availability: Only B-ALL cases were available, limiting generalization to other leukemia types.
+Integration Complexity: Seamless communication between the frontend, backend, and AI model server required careful orchestration.
+Security & Privacy Compliance: Ensuring patient data protection as per medical standards.
 Scalability : Supporting multiple users and future expansions.
 
 🚀 Future Scope
-Expand dataset to include more leukemia subtypes.
+Expand the dataset to include more leukemia subtypes.
 Integrate with Electronic Health Record (EHR) systems.
-Enable real-time cloud-based analysis .
+Enable real-time cloud-based analysis.
 Develop mobile and web applications for broader accessibility.
-Extend detection capabilities to other blood-related diseases .
+Extend detection capabilities to other blood-related diseases.
 Pursue clinical validation for hospital deployment.
 
 ✅ Conclusion
